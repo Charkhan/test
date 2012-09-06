@@ -1,3 +1,3 @@
 <?php
-	echo 'plop';
+	echo 'plop2';
 ?>
